@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="120" fill="#0A66C2"/>
+
+  <!-- Letter C -->
+  <path d="M340 160
+           A120 120 0 1 0 340 352"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="50"
+        stroke-linecap="round"/>
+
+  <!-- Leaf -->
+  <path d="M300 120
+           C360 110 390 160 350 200
+           C320 180 300 150 300 120Z"
+        fill="#4CAF50"/>
+
+</svg>
